@@ -8,3 +8,5 @@ Here are the technologies you used for your project:
 4) Google OAuth 2.0 (for authentication)
 5) JSON (for handling API responses)
 6) RESTful API integration
+
+![image alt](https://github.com/Tlohitkumar/Gmail-Mail-Scanner-and-Email-Summarizer/blob/main/Class_UML%20DIG.png?raw=true)
